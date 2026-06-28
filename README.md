@@ -1,9 +1,5 @@
-# Zach Dissington
+I build AI automation systems for small businesses, mostly patient reactivation for dental and healthcare practices right now. Before this I ran enterprise EHR implementations at Epic Systems.
 
-AI automation builder and independent climate-solutions researcher. Background: enterprise software at Epic Systems.
+Most of what I build runs in and around Claude Code, and I open-source the parts that generalize (an operators handbook, a task dashboard). On the side I do independent climate research (open spatial priors for hard-to-measure greenhouse gases, published on Zenodo) and DJ tooling that builds harmonic setlists straight into Rekordbox.
 
-## What I'm shipping now
-
-- **[climate-solutions-research-kit](https://github.com/zachdissington/climate-solutions-research-kit)** — a tested spatial-prior method for point-source-resolving high-GWP gas emissions (four worked case studies), plus tooling for a queryable Project Drawdown solutions database.
-
-Coming next: a Claude Code operations handbook, a filesystem task dashboard, and Jarvis (a voice interface for coding agents).
+More at [zachdissington.com](https://zachdissington.com)
